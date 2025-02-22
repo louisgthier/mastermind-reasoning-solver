@@ -1,0 +1,5 @@
+matplotlib
+ipywidgets
+networkx
+python-sat
+pypblib
